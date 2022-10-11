@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc_01_qunickstart:war">
+    <output-path>$PROJECT_DIR$/../springmvc_01_qunickstart/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc_01_qunickstart</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc_01_qunickstart-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springmvc_01_qunickstart:war exploded" />
+    </root>
+  </artifact>
+</component>
